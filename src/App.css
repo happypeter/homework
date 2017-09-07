@@ -1,0 +1,38 @@
+header{background-color: #2b2e33;
+			padding: 15px 0}
+		.top{width: 1200px;
+			margin: 0 auto;
+			overflow: hidden;
+		background-color: black;}
+		.top .mulu i{color:#6f7478;
+			font-size: 30px;
+			display: block;
+			float: left;
+			margin-top: 20px;
+			margin-left: 56px;}
+		.top .sousuo i{color:#6f7478;
+			font-size: 30px;
+			display: block;
+			float: left;
+			margin-top: 20px;
+			margin-left:224px;}
+		.top .log{display: block;
+			margin-left: 404px;
+			float: left;}
+		.top .baggage{display: block;
+			margin-left: 70px;
+			float: left;
+			margin-top: 15px;}
+		.top>span{display: block;
+			float: left;
+			color:#6f7478;
+			margin-top: 20px;
+			font-size: 14px;}
+		.top>span>a{
+			text-decoration: none;
+			color:#6f7478;
+		}
+		.top>span>a:hover{color:rgba(222,212,212,.8);}
+		.top .first{
+			margin-left: 43px;
+		}
