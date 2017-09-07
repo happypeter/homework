@@ -1,3 +1,15 @@
+.logo{
+	display: block;
+	border: 2px solid red;
+}
+
+.logo img{
+	display: block;
+	border: 2px solid blue;
+	width: 40px;
+}
+
+
 header{background-color: #2b2e33;
 			padding: 15px 0}
 		.top{width: 1200px;
