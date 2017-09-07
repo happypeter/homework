@@ -9,4 +9,15 @@ class App extends Component {
     return (
       <div className='header'>
       <div className="top">
-                                                                                                              
+      <img src={img} alt="" className="log"></img>
+      <a href="javascript:;" className="sousuo"><i className="iconfont">&#xe607;</i></a>
+      <img src={img1} alt="" className="baggage"></img>
+      <span className="first"><a href="">登陆/</a></span>
+      <span><a href="">注册</a></span>
+    </div>
+      </div>
+    );
+  }
+}
+
+export default App;
