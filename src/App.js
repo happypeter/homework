@@ -9,6 +9,7 @@ class App extends Component {
     return (
       <div className='header'>
       <div className="top">
+      <a className="Logo" href='#'><Logo color='#ccc' width='28px' height='36px'></a>
       <img src={img} alt="" className="log"></img>
       <a href="javascript:;" className="sousuo"><i className="iconfont">&#xe607;</i></a>
       <img src={img1} alt="" className="baggage"></img>
